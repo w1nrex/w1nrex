@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm w1nrex
 
-<!--
-**w1nrex/w1nrex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate self-taught developer focused on building high-quality software  
+💻 Specialized in **Telegram bots**, **backend**, and **frontend** development  
+🌍 Based in **Luxembourg**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- Languages: **Go**, **Python**, **HTML**, **CSS**
+- Databases: **SQLite3**, **PostgreSQL**
+- Tools & Platforms: **Goland**, **Git**, **REST APIs**
+
+---
+
+### ⚙️ Current Project
+I'm currently developing a **Telegram shop bot** with features like in-app balance, product pages, and CryptoBot integration.
+
+---
+
+### 🎯 Goals
+- Create a popular and valuable project used by real people  
+- Grow into a senior developer and release full-scale applications
+
+---
+
+### 🧠 Interests
+- **Cybersport**
+- **Football**
+- **Luxury watches**
+
+---
+
+### 🌐 Languages
+- 🇷🇺 Russian (native)  
+- 🇬🇧 English (fluent)  
+- 🇪🇸 Spanish (intermediate)
+
+---
+
+<!-- Feel free to contact me in future here -->
